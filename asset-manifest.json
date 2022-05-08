@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/aplicacion-tarea/static/css/main.37e25600.css",
-    "main.js": "/aplicacion-tarea/static/js/main.b2853049.js",
-    "static/media/freecodecamp-logo.png": "/aplicacion-tarea/static/media/freecodecamp-logo.5486935b905c7949600c.png",
-    "static/media/logo.svg": "/aplicacion-tarea/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/aplicacion-tarea/index.html",
-    "main.37e25600.css.map": "/aplicacion-tarea/static/css/main.37e25600.css.map",
-    "main.b2853049.js.map": "/aplicacion-tarea/static/js/main.b2853049.js.map"
+    "main.css": "/aplicacion-tareas/static/css/main.37e25600.css",
+    "main.js": "/aplicacion-tareas/static/js/main.cad69fee.js",
+    "static/media/freecodecamp-logo.png": "/aplicacion-tareas/static/media/freecodecamp-logo.5486935b905c7949600c.png",
+    "static/media/logo.svg": "/aplicacion-tareas/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/aplicacion-tareas/index.html",
+    "main.37e25600.css.map": "/aplicacion-tareas/static/css/main.37e25600.css.map",
+    "main.cad69fee.js.map": "/aplicacion-tareas/static/js/main.cad69fee.js.map"
   },
   "entrypoints": [
     "static/css/main.37e25600.css",
-    "static/js/main.b2853049.js"
+    "static/js/main.cad69fee.js"
   ]
 }
