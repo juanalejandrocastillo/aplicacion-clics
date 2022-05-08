@@ -29,7 +29,7 @@
 
   /* Logo freeCodeCamp */
   
-  .freecodecamp-logo-contenedor {
+  .header-contenedor {
     width: 100%;
     margin: 20px;
     display: flex;
@@ -37,9 +37,12 @@
     justify-content: center;
   }
 
-  .freecodecamp-logo {
+  .header-titulo {
     width: 400px;
     height: 50px;
+    font-size: 35px;
+    color: #fff;
+    text-align: center;
     border-radius: 25px;
   }
 
